@@ -1,2 +1,3 @@
-# _Prodigy_WD_01-main
-Responsive landing page of a watch retailing website using HTML, CSS and JavaScript
+This is a responsive landing page of a watch retailing website which is created using HTML, CSS and JavaScript.
+
+Hope you like it.
